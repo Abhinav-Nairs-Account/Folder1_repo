@@ -1,1 +1,3 @@
 Hello World.
+Some changes to example.txt
+Some changes to example.txt by Feature branch
